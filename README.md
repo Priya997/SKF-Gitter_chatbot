@@ -9,6 +9,8 @@ This repository is created for making the test room in Gitter.im for testing our
 The bot is live here **Security-Knowledge-Framework/Lobby**
 [![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](https://badges.gitter.im/Security-Knowledge-Framework/Lobby.svg)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-You can call the bot by 
+You can call or make the bot hear by: 
 #### @skfchatbot what is xss? [For description]
+#### @skfchatbot How to resolve xss? [For solution]
+#### @skfchatbot Code example for xss filtering in java? [For Code example]
 
